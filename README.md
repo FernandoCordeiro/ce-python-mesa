@@ -1,4 +1,3 @@
-# ce-python-mesa
 Minha Primeira Simulação em Python Mesa
 =========================================
 Resumo
